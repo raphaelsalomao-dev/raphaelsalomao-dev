@@ -56,7 +56,14 @@ UI/UX      ████████████████░░░░ 80%
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=raphaelsalomao-dev&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=raphaelsalomao-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelsalomao-dev&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=raphaelsalomao-dev&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
 
 </div>
 
