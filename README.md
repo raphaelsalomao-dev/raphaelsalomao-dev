@@ -43,10 +43,10 @@ UI/UX      ████████████████░░░░ 80%
 
 | Quest | Descrição | Status | Link |
 |---|---|---|---|
-| 🏆 **Eletricel** | Site institucional com catálogo de produtos e orçamento | ✅ Concluída | [Ver repositório](https://github.com/raphaelsalomao-dev/eletricel) |
-| 🏆 **R A Personal** | Landing page para studio de treinamento | ✅ Concluída | [Ver repositório](https://github.com/raphaelsalomao-dev/ra-personal) |
+| 🏆 **Eletricel** | Site institucional com catálogo de produtos e orçamento | ✅ Concluída | [Ver repositório](https://github.com/raphaelsalomao-dev/eletricelteste) |
+| 🏆 **R A Personal** | Landing page para studio de treinamento | ✅ Concluída | [Ver repositório](https://github.com/raphaelsalomao-dev/rastudiopersonalteste) |
 | ⚔️ **Pixel Barbershop** | Landing page com estética pixel art | ✅ Concluída | [Ver repositório](https://github.com/raphaelsalomao-dev/pixelbarbershop) |
-| ⚔️ **Landing Page Arquitetura** | Site institucional com formulário de contato | ✅ Concluída | [Ver repositório](https://github.com/raphaelsalomao-dev/landing-page-arquitetura) |
+| ⚔️ **Landing Page Arquitetura** | Site institucional com formulário de contato | ✅ Concluída | [Ver repositório](https://github.com/raphaelsalomao-dev/projeto-arquitetura-dnc) |
 | 🌱 **Tela de Login** | Projeto de estudo de formulários | ✅ Concluída | [Ver repositório](https://github.com/raphaelsalomao-dev/tela-login) |
 | 🔮 **Portfólio Terminal/IDE** | Template de portfólio com estética de terminal | 🚧 Em progresso | *em breve* |
 
