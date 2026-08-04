@@ -50,8 +50,6 @@ UI/UX      ████████████████░░░░ 80%
 | 🌱 **Tela de Login** | Projeto de estudo de formulários | ✅ Concluída | [Ver repositório](https://github.com/raphaelsalomao-dev/tela-login) |
 | 🔮 **Portfólio Terminal/IDE** | Template de portfólio com estética de terminal | 🚧 Em progresso | *em breve* |
 
-> ⚠️ Ajusta os links da tabela acima pros nomes reais dos seus repositórios depois de subir/renomear cada um.
-
 ---
 
 ### 📈 Estatísticas da Guilda
