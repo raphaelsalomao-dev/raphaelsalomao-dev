@@ -100,9 +100,10 @@ Gosto de transformar ideias em interfaces funcionais, responsivas e visualmente 
 
 ### 🏆 Conquistas
 
-<img src="https://github-profile-trophy.vercel.app/?username=raphaelsalomao-dev&theme=tokyonight&no-frame=true&row=1&column=6&locale=pt-br" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=raphaelsalomao-dev&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
 
 </div>
+
 
 
 ---
