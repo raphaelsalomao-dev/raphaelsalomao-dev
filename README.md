@@ -88,16 +88,22 @@ Gosto de transformar ideias em interfaces funcionais, responsivas e visualmente 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raphaelsalomao-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelsalomao-dev&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+### 📊 Estatísticas do Desenvolvedor
+
+<img src="https://github-readme-stats.vercel.app/api?username=raphaelsalomao-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelsalomao-dev&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" width="48%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=raphaelsalomao-dev&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
+### 🏆 Conquistas
+
+<img src="https://github-profile-trophy.vercel.app/?username=raphaelsalomao-dev&theme=tokyonight&no-frame=true&row=1&column=6&locale=pt-br" width="90%"/>
 
 </div>
+
 
 ---
 
