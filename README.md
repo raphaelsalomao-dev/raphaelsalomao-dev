@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:2b6cb0&height=200&section=header&text=Rafael%20Salomão&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer%20%7C%20Class:%20Code%20Wizard&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:2b6cb0&height=200&section=header&text=Rafael%20Salomão&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer%20%7C%20Code%20Wizard&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
@@ -8,51 +8,83 @@
 
 <div align="center">
 
-| Atributo | Valor |
-|---|---|
-| 🧙 **Classe** | Front-end Developer |
-| 📜 **Título** | Engenheiro de Software (DNC) |
-| 🌍 **Localização** | São Paulo, Brasil |
-| 🎯 **Missão Atual** | Encontrar a primeira guilda (vaga júnior) |
-| ⚔️ **Arma principal** | React + JavaScript |
-| 🛡️ **Habilidades passivas** | HTML • CSS • Git |
+| Atributo              | Valor                               |
+| --------------------- | ----------------------------------- |
+| 🧙 **Classe**         | Front-end Developer                 |
+| 📜 **Especialidade**  | Desenvolvimento Web                 |
+| 🎓 **Formação**       | Engenharia de Software — Escola DNC |
+| 🌍 **Localização**    | São Paulo, Brasil                   |
+| ⚔️ **Arma principal** | React + JavaScript                  |
+| 🛡️ **Habilidades**   | HTML • CSS • Git • GitHub           |
 
 </div>
 
 ---
 
-### 📊 Status do Personagem
+## 👋 Sobre mim
 
-```
-HTML/CSS   ████████████████████ 90%
-JavaScript ███████████████░░░░░ 75%
-React      ██████████░░░░░░░░░░ 50%
-Git/GitHub ██████████████░░░░░░ 70%
-UI/UX      ████████████████░░░░ 80%
-```
+Sou **Front-end Developer Júnior**, apaixonado por tecnologia e pelo desenvolvimento de interfaces web.
 
-### 🎒 Inventário (Stack)
+Tenho experiência prática na criação de **sites institucionais, landing pages e aplicações web**, trabalhando principalmente com **HTML, CSS, JavaScript e React**.
+
+Gosto de transformar ideias em interfaces funcionais, responsivas e visualmente bem construídas, sempre buscando evoluir meu código e aprender novas tecnologias.
+
+🎯 **Foco:** Desenvolvimento Front-end com React e JavaScript, criando interfaces modernas, responsivas e funcionais.
+
+---
+
+## 🎒 Inventário — Stack
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma" />
+
 </div>
 
 ---
 
-### 📖 Quest Log (Projetos Concluídos)
+## ⚔️ Habilidades
 
-| Quest | Descrição | Status | Link |
-|---|---|---|---|
-| 🏆 **Eletricel** | Site institucional com catálogo de produtos e orçamento | ✅ Concluída | [Ver repositório](https://github.com/raphaelsalomao-dev/eletricelteste) |
-| 🏆 **R A Personal** | Landing page para studio de treinamento | ✅ Concluída | [Ver repositório](https://github.com/raphaelsalomao-dev/rastudiopersonalteste) |
-| ⚔️ **Pixel Barbershop** | Landing page com estética pixel art | ✅ Concluída | [Ver repositório](https://github.com/raphaelsalomao-dev/pixelbarbershop) |
-| ⚔️ **Landing Page Arquitetura** | Site institucional com formulário de contato | ✅ Concluída | [Ver repositório](https://github.com/raphaelsalomao-dev/projeto-arquitetura-dnc) |
-| 🌱 **Tela de Login** | Projeto de estudo de formulários | ✅ Concluída | [Ver repositório](https://github.com/raphaelsalomao-dev/tela-login) |
-| 🔮 **Portfólio Terminal/IDE** | Template de portfólio com estética de terminal | 🚧 Em progresso | *em breve* |
+* 🌐 Desenvolvimento de interfaces responsivas
+* ⚛️ React e desenvolvimento de componentes
+* 🟨 JavaScript
+* 🎨 HTML5 e CSS3
+* 🔀 Git e GitHub
+* 📱 Design responsivo
+* 🧩 Lógica de programação
+* 🎯 Desenvolvimento de páginas e soluções para projetos reais
 
 ---
 
-### 📈 Estatísticas da Guilda
+## 📖 Quest Log — Projetos
+
+| Quest                           | Descrição                                                          | Status                |
+| ------------------------------- | ------------------------------------------------------------------ | --------------------- |
+| 🏆 **Eletricel**                | Site institucional com catálogo de produtos e sistema de orçamento | ✅ Concluída           |
+| 🏆 **R A Personal**             | Landing page para studio de treinamento                            | ✅ Concluída           |
+| ⚔️ **Pixel Barbershop**         | Landing page com identidade visual em pixel art                    | ✅ Concluída           |
+| ⚔️ **Landing Page Arquitetura** | Site institucional com formulário de contato                       | ✅ Concluída           |
+| 🌱 **Tela de Login**            | Projeto de estudo focado em formulários e interface                | ✅ Concluída           |
+| 🔮 **Portfólio**                | Portfólio pessoal para apresentação de projetos e habilidades      | 🚧 Em desenvolvimento |
+
+---
+
+## 🧠 Atualmente em evolução
+
+```text
+[✓] HTML
+[✓] CSS
+[✓] JavaScript
+[✓] Git & GitHub
+[✓] React
+[→] Desenvolvimento de projetos com React
+[→] Arquitetura e organização de aplicações
+[→] Boas práticas de desenvolvimento
+```
+
+---
+
+## 📈 Estatísticas da Guilda
 
 <div align="center">
 
@@ -69,17 +101,21 @@ UI/UX      ████████████████░░░░ 80%
 
 ---
 
-### 🤝 Como me encontrar
+## 🤝 Como me encontrar
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-salomao07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rafael-salomao07)
 
 </div>
 
+---
+
 <div align="center">
 
-*"Todo grande desenvolvedor já foi um dev nível 1."* ⚔️
+### ⚔️ Em busca de novos desafios.
+
+*"Todo grande desenvolvedor já foi um dev nível 1."*
 
 </div>
 
