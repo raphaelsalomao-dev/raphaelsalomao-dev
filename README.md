@@ -95,14 +95,7 @@ Gosto de transformar ideias em interfaces funcionais, responsivas e visualmente 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelsalomao-dev&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" width="48%"/>
 
 </div>
-
-<div align="center">
-
-### 🏆 Conquistas
-
-<img src="https://github-profile-trophy.vercel.app/?username=raphaelsalomao-dev&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
-
-</div>
+****
 
 
 
